@@ -8,7 +8,7 @@ A Organização Gamix é uma comunidade dedicada a conectar amantes de jogos, de
 
 Aqui estão os membros da equipe Gamix:
 
-- [Gabriel Vicente](https://github.com/gabrielOliv1) - Líder da Equipe e Sênior Back-end
+- [Gabriel Vicente](https://github.com/gabrielOliv1) - Líder da Equipe, Product Owner e Sênior Back-end
 - [Vinicius Moreira](https://github.com/ViniMS05) - Sênior Front-end e Scrum Master
 - [Lucas Christian](https://github.com/Lucas-Christian) - Engenheiro de Software
 - [Rafael Pinheiro](https://github.com/HG570) - Hacker e Designer
